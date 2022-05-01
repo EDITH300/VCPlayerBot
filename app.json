@@ -41,12 +41,12 @@
       },
       "ADMINS": {
         "description": "ID of Users who can use Admin commands(for multiple users seperated by space)",
-        "value": "low",
+        "value": "544684142",
         "required": true
       },
       "ADMIN_ONLY": {
         "description": "Change it to True if you want to make /play command available for everyone.",
-        "value": "544684142",
+        "value": "false",
         "required": false
       },
       "REPLY_MESSAGE": {
